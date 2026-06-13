@@ -10,7 +10,6 @@ output/
 Thumbs.db
 
 # IDE files
-.vscode/
 .idea/
 *.sublime-*
 
@@ -179,3 +178,7 @@ id_rsa
 id_rsa.*
 id_ed25519
 id_ed25519.*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
